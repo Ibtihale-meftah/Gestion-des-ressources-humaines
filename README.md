@@ -97,7 +97,7 @@ Les relations sont gérées par Entity Framework Core.
 
 ## Login
 
-<img ![WhatsApp Image 2025-12-21 at 12 05 20 PM](https://github.com/user-attachments/assets/446bdc14-fa08-446b-b9f9-99e90f568c76) />
+![WhatsApp Image 2025-12-21 at 12 05 20 PM](https://github.com/user-attachments/assets/446bdc14-fa08-446b-b9f9-99e90f568c76) 
 
 ## Dashboard
 
@@ -118,7 +118,7 @@ Les relations sont gérées par Entity Framework Core.
 ## Auteur
 
 Ibtihale Meftah 
-Étudiante en ingénierie, Systèmes d’Information et Transformation Digitale (EMSI Rabat)
+Étudiante en 4 éme année ingénierie, Informatique et Réseau , filière développement digital (EMSI Casa Blanca)
 
 ## Licence
 
