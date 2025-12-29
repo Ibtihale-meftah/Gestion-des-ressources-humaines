@@ -40,7 +40,7 @@ Ce projet consiste à développer une application web de gestion des ressources 
 ## Démarrage rapide
 
 1. Cloner le dépôt
-   git clone https://github.com/ibtihale-meftah/Gestion des ressources humaines.git
+   git clone https://github.com/ibtihale-meftah/Gestion-des-ressources-humaines.git
    cd Gestion-des-ressources-humaines
 
 2. Configurer la base de données
